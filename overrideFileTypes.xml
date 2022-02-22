@@ -1,6 +1,6 @@
 <application>
   <component name="OverrideFileTypeManager">
     <file url="file://$USER_HOME$/Documents/Dijon_Project/Dijon/testing/treatment_line_test.py" value="Python" />
-    <file url="file://$USER_HOME$/Documents/Montpellier/CHU_Montpellier/etl/test/drug_exposure_test.py" value="Python" />
+    <file url="file://$USER_HOME$/Documents/Dijon_Project/RHEMCO/etl/test/treatment_line_test.py" value="Python" />
   </component>
 </application>
